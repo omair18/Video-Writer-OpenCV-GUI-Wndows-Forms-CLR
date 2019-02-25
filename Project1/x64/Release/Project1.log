@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+c:\users\omair\source\repos\project1\project1\myform.h(287): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: see declaration of 'localtime'
+c:\users\omair\source\repos\project1\project1\myform.h(322): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\omair\source\repos\project1\project1\myform.h(323): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\omair\source\repos\project1\project1\myform.h(369): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: see declaration of 'localtime'
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\mat.inl.hpp(561): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\mat.inl.hpp(885): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\mat.inl.hpp(2221): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\mat.inl.hpp(3821): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\downloads\programs\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Project1.vcxproj -> C:\Users\omair\source\repos\Project1\x64\Release\Project1.exe

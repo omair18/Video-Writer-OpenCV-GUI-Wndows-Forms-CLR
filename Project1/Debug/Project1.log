@@ -1,0 +1,2 @@
+﻿  player.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+opencv_world401d.lib(opencv_world401d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

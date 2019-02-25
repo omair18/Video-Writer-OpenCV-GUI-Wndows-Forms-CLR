@@ -1,0 +1,18 @@
+﻿  player.cpp
+d:\workspace\qt\video_writer\player.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\workspace\qt\video_writer\player.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyForm.cpp
+  Generating Code...
+c:\users\omair\onedrive\documents\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(530): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\onedrive\documents\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(850): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\onedrive\documents\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(2171): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\omair\onedrive\documents\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3771): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  player.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+player.obj : warning LNK4248: unresolved typeref token (01000014) for 'cv.IVideoWriter'; image may not run
+player.obj : warning LNK4248: unresolved typeref token (01000015) for 'CvVideoWriter'; image may not run
+  Project1.vcxproj -> C:\Users\omair\source\repos\Project1\x64\Debug\Project1.exe
